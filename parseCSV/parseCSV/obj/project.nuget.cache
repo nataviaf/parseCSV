@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOxw1yWKpNzupwTMd2WaQJSh0NvhVTwyRYRgqfoQFjt7bglNh9f59JjUogNFVxYIO3pn+KHXAm/Lq0NRqcm6iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deric\\OneDrive\\Documents\\LaunchCode\\parseCSV\\parseCSV\\parseCSV\\ParseCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deric\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
+    "C:\\Users\\deric\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

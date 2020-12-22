@@ -1,0 +1,16 @@
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\ParseCSV.exe
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\planets.csv
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\ParseCSV.deps.json
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\ParseCSV.runtimeconfig.json
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\ParseCSV.runtimeconfig.dev.json
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\ParseCSV.dll
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\ParseCSV.pdb
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.csprojAssemblyReference.cache
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.AssemblyInfoInputs.cache
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.AssemblyInfo.cs
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.csproj.CoreCompileInputs.cache
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.csproj.CopyComplete
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.dll
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.pdb
+C:\Users\deric\OneDrive\Documents\LaunchCode\parseCSV\parseCSV\parseCSV\obj\Debug\netcoreapp3.1\ParseCSV.genruntimeconfig.cache
